@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rahul Kaushik</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 
-- 🌱 I’m currently learning **Dotnet, Angular, React.**
+- 🌱 I have hands-on experience on **Java core, Advanced Java, AWT, and Swing.**
 
-- 💬 Ask me about **DSA, Dontet.**
+- 💬 Ask me about **DSA, Java.**
 
 - 📫 How to reach me **rahulkaushikrk007@gmail.com**
 
