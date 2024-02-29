@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Kaushik</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 🌱 I have hands-on experience on **Java core, Advanced Java, AWT, and Swing.**
+- 🌱 I have hands-on experience on **Java core, Advanced Java, Spring Boot.**
 
 - 💬 Ask me about **DSA, Java.**
 
